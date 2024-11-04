@@ -3,7 +3,7 @@
 
 import difflib
 
-from odoo import _, api, fields, models
+from odoo import api, fields, models
 
 
 class DocumentPageHistory(models.Model):
@@ -55,7 +55,7 @@ class DocumentPageHistory(models.Model):
         line1 = text1.splitlines(True)
         line2 = text2.splitlines(True)
         if line1 == line2:
-            return _("There are no changes in revisions.")
+            return self.env._("There are no changes in revisions.")
         else:
             diff = difflib.HtmlDiff()
             return diff.make_table(

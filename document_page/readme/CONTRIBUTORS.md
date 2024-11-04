@@ -11,5 +11,6 @@
 Trobz
 
 - Dung Tran \<<dungtd@trobz.com>\>
+- Tuan Nguyen \<<tuanna@trobz.com>\>
 - [Sygel](https://www.sygel.es):
   - Ángel García de la Chica Herrera
