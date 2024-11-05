@@ -51,11 +51,11 @@ Usage
 
 To use this module, you need to:
 
--  Go to Knowledge menu
--  Click on Categories to create the document's category you need with
-   the template
--  Click on Pages to create pages and select the previous category to
-   use the template
+- Go to Knowledge menu
+- Click on Categories to create the document's category you need with
+  the template
+- Click on Pages to create pages and select the previous category to use
+  the template
 
 Bug Tracker
 ===========
@@ -78,32 +78,32 @@ Authors
 Contributors
 ------------
 
--  Gervais Naoussi <gervaisnaoussi@gmail.com>
--  Maxime Chambreuil <mchambreuil@ursainfosystems.com>
--  Iván Todorovich <ivan.todorovich@gmail.com>
--  Jose Maria Alzaga <jose.alzaga@aselcis.com>
--  Lois Rilo <lois.rilo@forgeflow.com>
--  Simone Orsi <simone.orsi@camptocamp.com>
--  `Tecnativa <https://www.tecnativa.com>`__:
+- Gervais Naoussi <gervaisnaoussi@gmail.com>
+- Maxime Chambreuil <mchambreuil@ursainfosystems.com>
+- Iván Todorovich <ivan.todorovich@gmail.com>
+- Jose Maria Alzaga <jose.alzaga@aselcis.com>
+- Lois Rilo <lois.rilo@forgeflow.com>
+- Simone Orsi <simone.orsi@camptocamp.com>
+- `Tecnativa <https://www.tecnativa.com>`__:
 
-   -  Ernesto Tejeda
-   -  Víctor Martínez
+  - Ernesto Tejeda
+  - Víctor Martínez
 
 Trobz
 
--  Dung Tran <dungtd@trobz.com>
--  `Sygel <https://www.sygel.es>`__:
+- Dung Tran <dungtd@trobz.com>
+- `Sygel <https://www.sygel.es>`__:
 
-   -  Ángel García de la Chica Herrera
+  - Ángel García de la Chica Herrera
 
 Other credits
 -------------
 
 The development of this module has been financially supported by:
 
--  Odoo SA <http://www.odoo.com>
--  Savoir-faire Linux <http://www.savoirfairelinux.com>
--  Camptocamp
+- Odoo SA <http://www.odoo.com>
+- Savoir-faire Linux <http://www.savoirfairelinux.com>
+- Camptocamp
 
 Maintainers
 -----------
